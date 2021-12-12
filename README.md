@@ -4,7 +4,7 @@
 
 ### 大屏：
 
-![image-20211212195646841](C:\Users\Hw\AppData\Roaming\Typora\typora-user-images\image-20211212195646841.png)
+![Image text](https://github.com/HCnet-614/Undergraduate-graduation-project/blob/main/img/README.png)
 
 
 
